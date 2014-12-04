@@ -1,0 +1,42 @@
+
+
+#main
+{
+	margin:40px auto;
+	max-width:1000px;
+}
+
+thead th
+{
+	cursor:pointer;
+	vertical-align: middle;
+}
+thead th:hover
+{
+	text-decoration: underline;
+}
+body
+{
+	font-size:16px;
+}
+body, h1, h2, h3, h4, h5, h6,p,td,th,span
+{
+	font-family:'kingthings_trypewriter_2Rg';
+}
+.modal-title
+{
+	font-size:16px;
+	font-weight:bold;
+}
+.modal-large .modal-dialog
+{
+     max-width: 900px;
+     width:80%;
+     margin-left:auto;
+     margin-right:auto;
+}
+
+.button-loader 
+{
+	padding:0 12px;
+}
